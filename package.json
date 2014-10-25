@@ -1,0 +1,15 @@
+{
+  "name": "node-guardian",
+  "version": "0.1.0",
+  "description": "Node.js process manager/runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "when": "^3.5.1"
+  }
+}

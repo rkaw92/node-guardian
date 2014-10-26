@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "daemon": "^1.1.0",
+    "minimist": "^1.1.0",
     "when": "^3.5.1"
   }
 }
